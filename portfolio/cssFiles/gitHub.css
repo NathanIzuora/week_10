@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(40, 63, 97);
+
+
+}
+
+#textBox{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(118, 118, 199);
+    margin-top: 20px;
+    border-style:solid;
+    border-radius: 5%;
+    background-color: aliceblue;
+    padding:15px;
+}
+
+#but1{
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding: 5px;
+
+
+}
+
+#but2{border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding:5px
+}
+
+#but3 {
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding:5px
+}
+
+#but4 {
+    border-style:solid;
+    background-color: rgb(75, 98, 133);
+    border-radius: 5%;
+    border-width: 30%;
+    border-color: rgb(118, 118, 199);
+}
+
+button{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(118, 118, 199);
+    margin-top: 20px;
+}

@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(40, 63, 97)
+
+}
+
+#thisIsNate{
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 3%;
+    border-width: medium;
+    background-color: aliceblue;
+    align-content: center;
+    padding:10px;
+    
+    
+
+}
+
+#paddingforname{
+    
+}
+
+#but1{
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding: 5px;
+
+
+}
+
+#but2{border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding:5px
+}
+
+#but3 {
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding:5px
+}
+
+#pls{
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 5px;
+}
+.theContainer{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(118, 118, 199);
+    margin-top: 20px;
+}
+
+.secondRow{
+    font-family: 'Black Han Sans', 'sans-serif';
+    font-size:90px;
+    color: rgb(99, 99, 165);
+}
+
+button{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(118, 118, 199);
+    margin-top: 20px;
+}
