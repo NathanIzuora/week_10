@@ -16,8 +16,17 @@ body{
 
 }
 
-#paddingforname{
     
+
+#but0{
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding: 5px;
+
+
 }
 
 #but1{
@@ -48,6 +57,29 @@ body{
     padding:5px
 }
 
+#but4 {
+    border-style:solid;
+    background-color: rgb(75, 98, 133);
+    border-radius: 5%;
+    border-width: 50%;
+    border-color: rgb(118, 118, 199);
+}
+
+#but5 {
+    border-style:solid;
+    background-color: rgb(75, 98, 133);
+    border-radius: 5%;
+    border-width: 50%;
+    border-color: rgb(118, 118, 199);
+}
+
+#but6 {
+    border-style:solid;
+    background-color: rgb(75, 98, 133);
+    border-radius: 5%;
+    border-width: 50%;
+    border-color: rgb(118, 118, 199);
+}
 #pls{
     border-style: solid;
     border-color: rgb(169, 175, 180);
@@ -72,4 +104,65 @@ button{
     font-size: 30px;
     color: rgb(118, 118, 199);
     margin-top: 20px;
+}
+
+#resume{
+    border-style: solid;
+    border-color: rgb(169, 175, 180);
+    border-radius: 5%;
+    border-width: 10%;
+    background-color: aliceblue;
+    padding:5px
+}
+
+#linkedIn {
+    border-style:solid;
+    background-color: rgb(101, 127, 167);
+    border-radius: 5%;
+    border-width: 10%;
+    border-color: rgb(118, 118, 199);
+}
+
+#textBox{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(118, 118, 199);
+    margin-top: 20px;
+    border-style:solid;
+    border-radius: 5%;
+    background-color: aliceblue;
+    padding:15px;
+}
+
+#linkers{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(118, 118, 199);
+    margin-top: 20px;
+    border-style:solid;
+    border-radius: 5%;
+    background-color: aliceblue;
+    padding:15px;
+}
+
+#theProjects{
+    color: rgb(179, 179, 228);
+}
+
+#work{
+    color: rgb(179, 179, 228);
+    font-size: 70px;
+    font-family: 'Black Han Sans', sans-serif;;
+}
+
+#myResume{
+    color: rgb(179, 179, 228);
+    font-size: 70px;
+    font-family: 'Black Han Sans', sans-serif;;
+}
+
+#pBanner{
+    border-style: solid;
+    background-color: aliceblue
+
 }
